@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "voidsmp-iMXA.aternos.me:38307",
+    "ip": "voidsmp-iMXA.aternos.me",
     "port": 38307,
     "version": "1.21.11",
     "try-creative": false
